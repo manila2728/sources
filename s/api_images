@@ -1,0 +1,14 @@
+{
+    "code": "200",
+    "data": [
+        {
+            "title": "shutterstock",
+            "headurl": "https://www.shutterstock.com/_next/data/KGer2kScfnZ-SJdu8tu_8/zh/_shutterstock/",
+            "search": "search/pretty-girl.json?image_type=photo&term=pretty-girl",
+            "sort": "search/pretty-girl.json?sort=random&term=pretty-girl",
+            "video": "video/search/pretty-girl.json?term=pretty-girl",
+            "music": "music/search/pretty-girl.json?term=pretty-girl",
+            "editorial": "editorial/search/pretty-girl.json?term=pretty-girl"
+        }
+    ]
+}
