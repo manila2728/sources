@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "mes": "服务正常",
+    "data": {
+        "version": 1.0,
+        "title": "新版本",
+        "des": "新版本更新了",
+        "url": "https://www.baidu.com",
+        "friend": "小龙在线"
+    }
+}
